@@ -1,2 +1,6 @@
 # Nim.python-
 Jeu de Nim
+kHELADI SOUMIA 201500008773 https://github.com/Soumiak
+AHMEDZAID WISSEM 201500008986 
+BOUDJATAT ASMA 201500002038  https://github.com/boudjasma
+DABOUZ LYDIA 201500009120 
